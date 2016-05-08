@@ -12,7 +12,7 @@
 // Jpeg Group's Jpeg 6a library, Copyright Thomas G. Lane.
 // See license.txt for details.
 
-package james;
+package net.james;
 
 import java.awt.AWTException;
 import java.awt.Image;

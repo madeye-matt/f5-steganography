@@ -17,7 +17,7 @@
 // switch for multi-volume embedding
 // indeterministic embedding
 // password switch
-package james;
+package net.james;
 
 import java.awt.Frame;
 import java.awt.Image;

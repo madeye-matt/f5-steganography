@@ -5,7 +5,7 @@
 // See license.txt for details about the allowed used of this software.
 // See IJGreadme.txt for details about the Independent JPEG Group's license.
 
-package james; // westfeld
+package net.james; // westfeld
 
 import java.awt.Image;
 import java.awt.Toolkit;

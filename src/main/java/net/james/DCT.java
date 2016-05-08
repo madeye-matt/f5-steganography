@@ -12,7 +12,7 @@
 // Jpeg Group's Jpeg 6a library, Copyright Thomas G. Lane.
 // See license.txt for details.
 
-package james;
+package net.james;
 
 /**
  * DCT - A Java implementation of the Discreet Cosine Transform
@@ -53,7 +53,7 @@ class DCT {
      * initializes the run length counters and the ZigZag sequence. Note that
      * the image quality can be worse than 25 however the image will be extemely
      * pixelated, usually to a block size of N.
-     * 
+     *
      * @param QUALITY The quality of the image (0 worst - 100 best)
      */
     public DCT(final int QUALITY) {

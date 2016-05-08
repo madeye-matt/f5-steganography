@@ -1,6 +1,6 @@
 package net.f5;
 
-import james.JpegEncoder;
+import net.james.JpegEncoder;
 
 import java.awt.Image;
 import java.awt.Toolkit;
