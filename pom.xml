@@ -14,9 +14,6 @@
     </license>
   </licenses>
   <build>
-    <sourceDirectory>src</sourceDirectory>
-    <directory>target</directory>
-    <outputDirectory>target/classes</outputDirectory>
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
@@ -53,5 +50,11 @@
     </repository>
   </repositories>
   <dependencies>
+      <dependency>
+          <groupId>junit</groupId>
+          <artifactId>junit</artifactId>
+          <version>4.12</version>
+          <scope>test</scope>
+      </dependency>
   </dependencies>
 </project>

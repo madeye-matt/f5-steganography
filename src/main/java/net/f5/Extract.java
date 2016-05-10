@@ -172,7 +172,7 @@ public class Extract {
             }
             for (int i = 0; i < args.length; i++) {
                 if (!args[i].startsWith("-")) {
-                    if (!args[i].endsWith(".jpg")) {
+                    if (!args[i].toLowerCase().endsWith(".jpg")) {
                         usage();
                         return;
                     }
