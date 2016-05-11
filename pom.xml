@@ -3,7 +3,7 @@
   <groupId>net.f5</groupId>
   <artifactId>steganography</artifactId>
   <packaging>jar</packaging>
-  <version>0.5.0</version>
+  <version>0.5.1-SNAPSHOT</version>
   <name>f5-steganography</name>
   <description>Open source implementation of F5 steganography</description>
   <url>http://example.com/FIXME</url>
